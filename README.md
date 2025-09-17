@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Nikolina, interested in Data Science and AI applications in healthcare.
+I am Nikolina, interested in AI.
 
 
-- 🔭 I’m currently working on AI models for medical imaging at UCSF.
+- 🔭 I’m currently working on AI models for medical imaging and LLMs at UCSF.
