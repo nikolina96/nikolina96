@@ -3,4 +3,4 @@
 I am Nikolina, interested in AI.
 
 
-- 🔭 I’m currently working on AI models for medical imaging and LLMs at UCSF.
+- 🔭 I’m currently working on AI models for Copputer Vision and LLMs.
